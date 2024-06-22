@@ -5,15 +5,15 @@ import About from "../Pages/about/About.jsx";
 
 const Router = createBrowserRouter([
   {
-    path: "/",
+    path: "/Nungshify/",
     element: <Home />,
   },
   {
-    path: "/yt-download",
+    path: "/Nungshify/yt-download",
     element: <Downloads />,
   },
   {
-    path: "/about",
+    path: "/Nungshify/about",
     element: <About />,
   },
 ])
